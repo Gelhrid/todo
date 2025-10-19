@@ -1,3 +1,7 @@
+upgrade liqubase sturcture
+
+
+
 JWT autentykacja
 
 application properties.
