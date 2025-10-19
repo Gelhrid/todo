@@ -11,3 +11,6 @@ dac jakis payload do testow
 kafka
 
 s3 (aws) sqs sns ses?
+
+
+add profiles for 
