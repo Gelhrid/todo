@@ -6,8 +6,7 @@ import lombok.NoArgsConstructor;
 import java.util.Set;
 @Data
 @NoArgsConstructor
-public class ToDoListDto {
-    private Set<ToDoDto> toDos;
+public class CreateToDoListDto {
     private String creator;
     private String title;
 }
