@@ -1,0 +1,4 @@
+databaseChangeLog:
+  - include:
+      file: ../create/001-create-to_do_list.sql
+      relativeToChangelogFile: true
