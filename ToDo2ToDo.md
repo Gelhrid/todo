@@ -1,6 +1,7 @@
 upgrade liqubase sturcture
 
-
+moze intergacja z jakisms api np facbooka ze chce przypomninia z todo listy wysylac na messengera
+albo maila albo sms albo whatupa czy cos
 
 JWT autentykacja
 
@@ -12,9 +13,9 @@ execption handling
 
 testy + testy integracyjne
 dac jakis payload do testow
-kafka
+kafka i przez nia jakies notyfikacje?
 
 s3 (aws) sqs sns ses?
 
-
+dodanie loggera
 add profiles for 

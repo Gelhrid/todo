@@ -1,4 +1,4 @@
 databaseChangeLog:
   - include:
-      file: changelog-create.yaml
+      file: ../create/001-create-to_do_list.sql
       relativeToChangelogFile: true
